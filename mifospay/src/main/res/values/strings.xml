@@ -121,6 +121,9 @@
     <string name="answer2">Answer 1</string>
     <string name="answer3">Answer 1</string>
     <string name="answer4">Answer 1</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="sign_up_as_merchant">Sign up as merchant</string>
+    <string name="sign_up_as_customer">Sign up as customer</string>
 
 
 </resources>
