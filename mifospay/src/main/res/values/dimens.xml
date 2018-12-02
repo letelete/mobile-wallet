@@ -9,12 +9,13 @@
     <dimen name="textCaption">12sp</dimen>
     <dimen name="textOverline">12sp</dimen>
 
-    <dimen name="paddingLayout">24dp</dimen>
+    <dimen name="marginLayout">24dp</dimen>
 
     <dimen name="marginItemsInSectionSmall">16dp</dimen>
     <dimen name="marginItemsInSectionMedium">20dp</dimen>
     <dimen name="marginItemsInSectionLarge">24dp</dimen>
     <dimen name="marginBetweenSections">48dp</dimen>
+
     <dimen name="marginBetweenWords">4dp</dimen>
 
     <dimen name="marginBetweenLogoAndLoginInput">100dp</dimen>
